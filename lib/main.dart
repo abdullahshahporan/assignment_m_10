@@ -29,7 +29,7 @@ class Home extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children:<Widget> [
-            Text('Hello World!',
+            Text('Hello, World!',
               style:TextStyle(
                 color: Colors.red,
                 fontWeight: FontWeight.bold,
